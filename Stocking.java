@@ -8,6 +8,7 @@ import java.math.BigInteger;
 
 //random edits thrown in here
 
+//very inefficent
 
 class Stocking
 {
